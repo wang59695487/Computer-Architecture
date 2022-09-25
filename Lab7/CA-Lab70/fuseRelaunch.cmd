@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "Y:/Desktop/Xlinux/wk-final/cankao/ComputerArchitecture-master/09_Cache/sim_top_isim_beh.exe" -prj "Y:/Desktop/Xlinux/wk-final/cankao/ComputerArchitecture-master/09_Cache/sim_top_beh.prj" "work.sim_top" "work.glbl" 

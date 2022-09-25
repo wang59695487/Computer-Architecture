@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "Y:/Desktop/Xlinux/wk-final/2018_topic2_student/mips_top_isim_beh.exe" -prj "Y:/Desktop/Xlinux/wk-final/2018_topic2_student/mips_top_beh.prj" "work.mips_top" "work.glbl" 
